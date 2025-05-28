@@ -1,8 +1,8 @@
 {
-  "name": "custom_drop_in",
+  "name": "custom-drop-in",
   "version": "1.0.0",
   "description": "This is a custom payment integration",
-  "endpoint": "https://custom_drop_in.vercel.app/payment-handler",
+  "endpoint": "https://custom-drop-in.vercel.app/payment-handler",
   "builders": {
     "paymentProvider": "1.0.0"
   },
